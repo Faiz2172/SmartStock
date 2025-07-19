@@ -3,7 +3,7 @@
 SmartStock is a **Multi-Period Inventory Optimization System** developed in Python. It leverages **Dynamic Programming (DP)** to help businesses minimize the total cost of inventory planning over several months. The system determines the optimal number of units to produce each month while strictly meeting demand and adhering to production and storage limits.
 
 -----
-https://github.com/user-attachments/assets/4bbac803-9184-4b83-857e-e2d4bf6649ff.mp4
+https://github.com/user-attachments/assets/4bbac803-9184-4b83-857e-e2d4bf6649ff
 ----
 
 ## 📌 Problem Statement
