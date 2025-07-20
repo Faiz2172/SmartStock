@@ -11,7 +11,7 @@ from utils import *
 
 def main():
     st.set_page_config(
-        page_title="Inventory Control System",
+        page_title="SmartStock",
         page_icon="📦",
         layout="wide",
         initial_sidebar_state="collapsed"
