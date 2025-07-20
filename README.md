@@ -1,4 +1,6 @@
-# SmartStock 📈: Inventory Optimization System
+# SmartStock: AI-Powered Inventory Optimization System
+🔗 Live Demo: https://smart-stock.streamlit.app
+---
 
 SmartStock is a **Multi-Period Inventory Optimization System** developed in Python. It leverages **Dynamic Programming (DP)** to help businesses minimize the total cost of inventory planning over several months. The system determines the optimal number of units to produce each month while strictly meeting demand and adhering to production and storage limits.
 
